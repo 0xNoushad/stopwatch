@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
-import soundFile from './1.mp3';
+import 1.mp3 from './1.mp3';
 
 function App() {
   const [elapsedTime, setElapsedTime] = useState(0);
