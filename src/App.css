@@ -40,3 +40,105 @@
 .read-the-docs {
   color: #888;
 }
+/* App.module.css */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timer {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+input {
+  width: 4rem;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.reset-button {
+  background-color: #f44336;
+  margin-left: 1rem;
+}
+
+.reset-button:hover {
+  background-color: #d32f2f;
+}
+
+.audio {
+  display: none;
+}
+/* App.module.css */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timer {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+input {
+  width: 4rem;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+button {
+  background-color: #000000;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #eaefeb;
+}
+
+.reset-button {
+  background-color: #000000;
+  margin-left: 1rem;
+}
+
+.reset-button:hover {
+  background-color: #f9f7f7;
+}
+
+.audio {
+  display: none;
+}
